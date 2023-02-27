@@ -1,0 +1,3 @@
+scenario,income,rrsp,federal_tax,quebec_tax,contributions
+1,150000.00,0.00,23024.00,28096.00,4934.00
+2,120000.00,21600.00,11935.00,15066.00,4934.00
